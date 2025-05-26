@@ -22,7 +22,7 @@
 
 
 
-### Créez un compte sur OPENAI
+### Créez un compte sur OPENAI (Gemini est disponible)
 
 1. Allez sur [OpenAI](https://www.openai.com/).
 2. Inscrivez-vous pour un compte.
